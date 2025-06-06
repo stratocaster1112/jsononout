@@ -1,0 +1,44 @@
+{
+  "empresa": {
+    "nome": "Desvendando o Código",
+    "localizacao": {
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "pais": "Brasil"
+    },
+    "funcionarios": [
+      {
+        "id": 1,
+        "nome": "João Silva",
+        "cargo": "Desenvolvedor",
+        "habilidades": ["JavaScript", "Node.js", "React"]
+      },
+      {
+        "id": 2,
+        "nome": "Maria Oliveira",
+        "cargo": "Designer",
+        "habilidades": ["Photoshop", "Illustrator", "UX/UI"]
+      },
+      {
+        "id": 3,
+        "nome": "Carlos Souza",
+        "cargo": "Gerente de Projetos",
+        "habilidades": ["Gestão de Projetos", "Scrum", "Comunicação"]
+      }
+    ],
+    "projetos": [
+      {
+        "id": "P001",
+        "nome": "Projeto A",
+        "descricao": "Desenvolvimento de um sistema de e-commerce",
+        "status": "Em andamento"
+      },
+      {
+        "id": "P002",
+        "nome": "Projeto B",
+        "descricao": "Redesign do site institucional",
+        "status": "Concluído"
+      }
+    ]
+  }
+}
